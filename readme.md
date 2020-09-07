@@ -76,14 +76,11 @@
 	git checkout -В master 54a4  
 ```
 
-
-
 > 4. Если необходимо обратно вернуться в FIX
 
 ```sh
 	git branch -f master fix  
 ```
-
 
 ## Состояние отделённой HEAD
 
